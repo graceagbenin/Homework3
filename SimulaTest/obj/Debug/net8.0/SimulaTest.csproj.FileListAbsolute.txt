@@ -1,0 +1,14 @@
+C:\Users\grafu\Desktop\CIS 122\SimulaTest\obj\Debug\net8.0\SimulaTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grafu\Desktop\CIS 122\SimulaTest\obj\Debug\net8.0\SimulaTest.AssemblyInfoInputs.cache
+C:\Users\grafu\Desktop\CIS 122\SimulaTest\obj\Debug\net8.0\SimulaTest.AssemblyInfo.cs
+C:\Users\grafu\Desktop\CIS 122\SimulaTest\obj\Debug\net8.0\SimulaTest.csproj.CoreCompileInputs.cache
+C:\Users\grafu\Desktop\CIS 122\SimulaTest\bin\Debug\net8.0\SimulaTest.exe
+C:\Users\grafu\Desktop\CIS 122\SimulaTest\bin\Debug\net8.0\SimulaTest.deps.json
+C:\Users\grafu\Desktop\CIS 122\SimulaTest\bin\Debug\net8.0\SimulaTest.runtimeconfig.json
+C:\Users\grafu\Desktop\CIS 122\SimulaTest\bin\Debug\net8.0\SimulaTest.dll
+C:\Users\grafu\Desktop\CIS 122\SimulaTest\bin\Debug\net8.0\SimulaTest.pdb
+C:\Users\grafu\Desktop\CIS 122\SimulaTest\obj\Debug\net8.0\SimulaTest.dll
+C:\Users\grafu\Desktop\CIS 122\SimulaTest\obj\Debug\net8.0\refint\SimulaTest.dll
+C:\Users\grafu\Desktop\CIS 122\SimulaTest\obj\Debug\net8.0\SimulaTest.pdb
+C:\Users\grafu\Desktop\CIS 122\SimulaTest\obj\Debug\net8.0\SimulaTest.genruntimeconfig.cache
+C:\Users\grafu\Desktop\CIS 122\SimulaTest\obj\Debug\net8.0\ref\SimulaTest.dll

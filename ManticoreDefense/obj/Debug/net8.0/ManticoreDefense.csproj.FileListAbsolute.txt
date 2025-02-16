@@ -1,0 +1,14 @@
+C:\Users\grafu\Desktop\CIS 122\ManticoreDefense\obj\Debug\net8.0\ManticoreDefense.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grafu\Desktop\CIS 122\ManticoreDefense\obj\Debug\net8.0\ManticoreDefense.AssemblyInfoInputs.cache
+C:\Users\grafu\Desktop\CIS 122\ManticoreDefense\obj\Debug\net8.0\ManticoreDefense.AssemblyInfo.cs
+C:\Users\grafu\Desktop\CIS 122\ManticoreDefense\obj\Debug\net8.0\ManticoreDefense.csproj.CoreCompileInputs.cache
+C:\Users\grafu\Desktop\CIS 122\ManticoreDefense\bin\Debug\net8.0\ManticoreDefense.exe
+C:\Users\grafu\Desktop\CIS 122\ManticoreDefense\bin\Debug\net8.0\ManticoreDefense.deps.json
+C:\Users\grafu\Desktop\CIS 122\ManticoreDefense\bin\Debug\net8.0\ManticoreDefense.runtimeconfig.json
+C:\Users\grafu\Desktop\CIS 122\ManticoreDefense\bin\Debug\net8.0\ManticoreDefense.dll
+C:\Users\grafu\Desktop\CIS 122\ManticoreDefense\bin\Debug\net8.0\ManticoreDefense.pdb
+C:\Users\grafu\Desktop\CIS 122\ManticoreDefense\obj\Debug\net8.0\ManticoreDefense.dll
+C:\Users\grafu\Desktop\CIS 122\ManticoreDefense\obj\Debug\net8.0\refint\ManticoreDefense.dll
+C:\Users\grafu\Desktop\CIS 122\ManticoreDefense\obj\Debug\net8.0\ManticoreDefense.pdb
+C:\Users\grafu\Desktop\CIS 122\ManticoreDefense\obj\Debug\net8.0\ManticoreDefense.genruntimeconfig.cache
+C:\Users\grafu\Desktop\CIS 122\ManticoreDefense\obj\Debug\net8.0\ref\ManticoreDefense.dll

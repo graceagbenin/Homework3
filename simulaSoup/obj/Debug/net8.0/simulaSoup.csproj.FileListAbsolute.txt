@@ -1,0 +1,14 @@
+C:\Users\grafu\Desktop\CIS 122\simulaSoup\obj\Debug\net8.0\simulaSoup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grafu\Desktop\CIS 122\simulaSoup\obj\Debug\net8.0\simulaSoup.AssemblyInfoInputs.cache
+C:\Users\grafu\Desktop\CIS 122\simulaSoup\obj\Debug\net8.0\simulaSoup.AssemblyInfo.cs
+C:\Users\grafu\Desktop\CIS 122\simulaSoup\obj\Debug\net8.0\simulaSoup.csproj.CoreCompileInputs.cache
+C:\Users\grafu\Desktop\CIS 122\simulaSoup\bin\Debug\net8.0\simulaSoup.exe
+C:\Users\grafu\Desktop\CIS 122\simulaSoup\bin\Debug\net8.0\simulaSoup.deps.json
+C:\Users\grafu\Desktop\CIS 122\simulaSoup\bin\Debug\net8.0\simulaSoup.runtimeconfig.json
+C:\Users\grafu\Desktop\CIS 122\simulaSoup\bin\Debug\net8.0\simulaSoup.dll
+C:\Users\grafu\Desktop\CIS 122\simulaSoup\bin\Debug\net8.0\simulaSoup.pdb
+C:\Users\grafu\Desktop\CIS 122\simulaSoup\obj\Debug\net8.0\simulaSoup.dll
+C:\Users\grafu\Desktop\CIS 122\simulaSoup\obj\Debug\net8.0\refint\simulaSoup.dll
+C:\Users\grafu\Desktop\CIS 122\simulaSoup\obj\Debug\net8.0\simulaSoup.pdb
+C:\Users\grafu\Desktop\CIS 122\simulaSoup\obj\Debug\net8.0\simulaSoup.genruntimeconfig.cache
+C:\Users\grafu\Desktop\CIS 122\simulaSoup\obj\Debug\net8.0\ref\simulaSoup.dll
