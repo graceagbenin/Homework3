@@ -1,0 +1,14 @@
+C:\Users\grafu\Desktop\CIS 122\VinTrouble\obj\Debug\net8.0\VinTrouble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grafu\Desktop\CIS 122\VinTrouble\obj\Debug\net8.0\VinTrouble.AssemblyInfoInputs.cache
+C:\Users\grafu\Desktop\CIS 122\VinTrouble\obj\Debug\net8.0\VinTrouble.AssemblyInfo.cs
+C:\Users\grafu\Desktop\CIS 122\VinTrouble\obj\Debug\net8.0\VinTrouble.csproj.CoreCompileInputs.cache
+C:\Users\grafu\Desktop\CIS 122\VinTrouble\bin\Debug\net8.0\VinTrouble.exe
+C:\Users\grafu\Desktop\CIS 122\VinTrouble\bin\Debug\net8.0\VinTrouble.deps.json
+C:\Users\grafu\Desktop\CIS 122\VinTrouble\bin\Debug\net8.0\VinTrouble.runtimeconfig.json
+C:\Users\grafu\Desktop\CIS 122\VinTrouble\bin\Debug\net8.0\VinTrouble.dll
+C:\Users\grafu\Desktop\CIS 122\VinTrouble\bin\Debug\net8.0\VinTrouble.pdb
+C:\Users\grafu\Desktop\CIS 122\VinTrouble\obj\Debug\net8.0\VinTrouble.dll
+C:\Users\grafu\Desktop\CIS 122\VinTrouble\obj\Debug\net8.0\refint\VinTrouble.dll
+C:\Users\grafu\Desktop\CIS 122\VinTrouble\obj\Debug\net8.0\VinTrouble.pdb
+C:\Users\grafu\Desktop\CIS 122\VinTrouble\obj\Debug\net8.0\VinTrouble.genruntimeconfig.cache
+C:\Users\grafu\Desktop\CIS 122\VinTrouble\obj\Debug\net8.0\ref\VinTrouble.dll

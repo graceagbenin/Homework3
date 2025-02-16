@@ -1,0 +1,14 @@
+C:\Users\grafu\Desktop\CIS 122\VinArrows\obj\Debug\net8.0\VinArrows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grafu\Desktop\CIS 122\VinArrows\obj\Debug\net8.0\VinArrows.AssemblyInfoInputs.cache
+C:\Users\grafu\Desktop\CIS 122\VinArrows\obj\Debug\net8.0\VinArrows.AssemblyInfo.cs
+C:\Users\grafu\Desktop\CIS 122\VinArrows\obj\Debug\net8.0\VinArrows.csproj.CoreCompileInputs.cache
+C:\Users\grafu\Desktop\CIS 122\VinArrows\bin\Debug\net8.0\VinArrows.exe
+C:\Users\grafu\Desktop\CIS 122\VinArrows\bin\Debug\net8.0\VinArrows.deps.json
+C:\Users\grafu\Desktop\CIS 122\VinArrows\bin\Debug\net8.0\VinArrows.runtimeconfig.json
+C:\Users\grafu\Desktop\CIS 122\VinArrows\bin\Debug\net8.0\VinArrows.dll
+C:\Users\grafu\Desktop\CIS 122\VinArrows\bin\Debug\net8.0\VinArrows.pdb
+C:\Users\grafu\Desktop\CIS 122\VinArrows\obj\Debug\net8.0\VinArrows.dll
+C:\Users\grafu\Desktop\CIS 122\VinArrows\obj\Debug\net8.0\refint\VinArrows.dll
+C:\Users\grafu\Desktop\CIS 122\VinArrows\obj\Debug\net8.0\VinArrows.pdb
+C:\Users\grafu\Desktop\CIS 122\VinArrows\obj\Debug\net8.0\VinArrows.genruntimeconfig.cache
+C:\Users\grafu\Desktop\CIS 122\VinArrows\obj\Debug\net8.0\ref\VinArrows.dll

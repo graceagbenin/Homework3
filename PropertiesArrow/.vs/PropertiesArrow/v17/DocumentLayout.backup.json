@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\grafu\\Desktop\\CIS 122\\PropertiesArrow\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A51DCFC6-811A-4EAF-ABEE-E03A114C5CBC}|PropertiesArrow.csproj|c:\\users\\grafu\\desktop\\cis 122\\propertiesarrow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A51DCFC6-811A-4EAF-ABEE-E03A114C5CBC}|PropertiesArrow.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51DCFC6-811A-4EAF-ABEE-E03A114C5CBC}|PropertiesArrow.csproj|c:\\users\\grafu\\desktop\\cis 122\\propertiesarrow\\properties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A51DCFC6-811A-4EAF-ABEE-E03A114C5CBC}|PropertiesArrow.csproj|solutionrelative:properties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Properties.cs",
+              "DocumentMoniker": "C:\\Users\\grafu\\Desktop\\CIS 122\\PropertiesArrow\\Properties.cs",
+              "RelativeDocumentMoniker": "Properties.cs",
+              "ToolTip": "C:\\Users\\grafu\\Desktop\\CIS 122\\PropertiesArrow\\Properties.cs",
+              "RelativeToolTip": "Properties.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T19:28:47.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\grafu\\Desktop\\CIS 122\\PropertiesArrow\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\grafu\\Desktop\\CIS 122\\PropertiesArrow\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T19:20:02.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

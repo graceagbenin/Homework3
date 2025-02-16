@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\grafu\\Desktop\\CIS 122\\VinTrouble\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2A16715-07F6-483D-A89F-26AEA561F741}|VinTrouble.csproj|c:\\users\\grafu\\desktop\\cis 122\\vintrouble\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2A16715-07F6-483D-A89F-26AEA561F741}|VinTrouble.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2A16715-07F6-483D-A89F-26AEA561F741}|VinTrouble.csproj|c:\\users\\grafu\\desktop\\cis 122\\vintrouble\\trouble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2A16715-07F6-483D-A89F-26AEA561F741}|VinTrouble.csproj|solutionrelative:trouble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Trouble.cs",
+              "DocumentMoniker": "C:\\Users\\grafu\\Desktop\\CIS 122\\VinTrouble\\Trouble.cs",
+              "RelativeDocumentMoniker": "Trouble.cs",
+              "ToolTip": "C:\\Users\\grafu\\Desktop\\CIS 122\\VinTrouble\\Trouble.cs",
+              "RelativeToolTip": "Trouble.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAwwAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T18:55:04.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\grafu\\Desktop\\CIS 122\\VinTrouble\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\grafu\\Desktop\\CIS 122\\VinTrouble\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T18:40:59.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

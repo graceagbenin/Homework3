@@ -1,0 +1,14 @@
+C:\Users\grafu\Desktop\CIS 122\PropertiesArrow\obj\Debug\net8.0\PropertiesArrow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grafu\Desktop\CIS 122\PropertiesArrow\obj\Debug\net8.0\PropertiesArrow.AssemblyInfoInputs.cache
+C:\Users\grafu\Desktop\CIS 122\PropertiesArrow\obj\Debug\net8.0\PropertiesArrow.AssemblyInfo.cs
+C:\Users\grafu\Desktop\CIS 122\PropertiesArrow\obj\Debug\net8.0\PropertiesArrow.csproj.CoreCompileInputs.cache
+C:\Users\grafu\Desktop\CIS 122\PropertiesArrow\bin\Debug\net8.0\PropertiesArrow.exe
+C:\Users\grafu\Desktop\CIS 122\PropertiesArrow\bin\Debug\net8.0\PropertiesArrow.deps.json
+C:\Users\grafu\Desktop\CIS 122\PropertiesArrow\bin\Debug\net8.0\PropertiesArrow.runtimeconfig.json
+C:\Users\grafu\Desktop\CIS 122\PropertiesArrow\bin\Debug\net8.0\PropertiesArrow.dll
+C:\Users\grafu\Desktop\CIS 122\PropertiesArrow\bin\Debug\net8.0\PropertiesArrow.pdb
+C:\Users\grafu\Desktop\CIS 122\PropertiesArrow\obj\Debug\net8.0\PropertiesArrow.dll
+C:\Users\grafu\Desktop\CIS 122\PropertiesArrow\obj\Debug\net8.0\refint\PropertiesArrow.dll
+C:\Users\grafu\Desktop\CIS 122\PropertiesArrow\obj\Debug\net8.0\PropertiesArrow.pdb
+C:\Users\grafu\Desktop\CIS 122\PropertiesArrow\obj\Debug\net8.0\PropertiesArrow.genruntimeconfig.cache
+C:\Users\grafu\Desktop\CIS 122\PropertiesArrow\obj\Debug\net8.0\ref\PropertiesArrow.dll
