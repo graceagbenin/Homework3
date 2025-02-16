@@ -1,0 +1,14 @@
+C:\Users\grafu\Desktop\CIS 122\MultipleFunctions\obj\Debug\net8.0\MultipleFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grafu\Desktop\CIS 122\MultipleFunctions\obj\Debug\net8.0\MultipleFunctions.AssemblyInfoInputs.cache
+C:\Users\grafu\Desktop\CIS 122\MultipleFunctions\obj\Debug\net8.0\MultipleFunctions.AssemblyInfo.cs
+C:\Users\grafu\Desktop\CIS 122\MultipleFunctions\obj\Debug\net8.0\MultipleFunctions.csproj.CoreCompileInputs.cache
+C:\Users\grafu\Desktop\CIS 122\MultipleFunctions\bin\Debug\net8.0\MultipleFunctions.exe
+C:\Users\grafu\Desktop\CIS 122\MultipleFunctions\bin\Debug\net8.0\MultipleFunctions.deps.json
+C:\Users\grafu\Desktop\CIS 122\MultipleFunctions\bin\Debug\net8.0\MultipleFunctions.runtimeconfig.json
+C:\Users\grafu\Desktop\CIS 122\MultipleFunctions\bin\Debug\net8.0\MultipleFunctions.dll
+C:\Users\grafu\Desktop\CIS 122\MultipleFunctions\bin\Debug\net8.0\MultipleFunctions.pdb
+C:\Users\grafu\Desktop\CIS 122\MultipleFunctions\obj\Debug\net8.0\MultipleFunctions.dll
+C:\Users\grafu\Desktop\CIS 122\MultipleFunctions\obj\Debug\net8.0\refint\MultipleFunctions.dll
+C:\Users\grafu\Desktop\CIS 122\MultipleFunctions\obj\Debug\net8.0\MultipleFunctions.pdb
+C:\Users\grafu\Desktop\CIS 122\MultipleFunctions\obj\Debug\net8.0\MultipleFunctions.genruntimeconfig.cache
+C:\Users\grafu\Desktop\CIS 122\MultipleFunctions\obj\Debug\net8.0\ref\MultipleFunctions.dll
